@@ -15,7 +15,7 @@ const components = {
 
 export default function App(props: AppProps) {
   const { Component, pageProps, ...rest } = props;
-  console.log(pageProps, rest, Component);
+  // console.log(pageProps, rest, Component);
 
   if (Component.name === 'MDXContent') {
     return (

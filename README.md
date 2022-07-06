@@ -1,6 +1,4 @@
-# Unothing
-
-> You know nothing, Jon Snow
+# You know nothing, Jon Snow
 
 My personal blog [sherluok.com](https://sherluok.cn) supports:
 - Point One: xxx

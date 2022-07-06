@@ -39,12 +39,12 @@ $accent-color: rgb(255, 45, 85);
     letter-spacing: 2px;
     line-height: 2;
     &.selected {
-      font-weight: bold;
+      // font-weight: 400;
       box-shadow: 0 2px 0 0 currentColor;
     }
     &.name {
       font-size: 18px;
-      font-weight: bolder;
+      font-weight: 600;
       color: $accent-color;
     }
   }
